@@ -1,0 +1,6 @@
+28:24:ff:99:f3:6e
+192.168.0.2
+
+to check for MAC address vendor name:
+https://dnschecker.org/mac-lookup.php
+https://macvendors.com/
